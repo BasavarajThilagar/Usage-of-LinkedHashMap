@@ -1,5 +1,4 @@
 # Usage-of-LinkedHashMap
-Example to use LinkedHashMap.
 public static void main(String[] args) 
 	{
 		WebDriver driver = new ChromeDriver();
